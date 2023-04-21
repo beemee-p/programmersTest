@@ -5,7 +5,6 @@
 // 제한사항
 // N의 범위 : 100,000,000 이하의 자연수
 
-
 function solution(n){
     let sum = 0;
     let str = n.toString();
